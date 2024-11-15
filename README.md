@@ -3,7 +3,13 @@ I'm striving to become a full-stack developer.
 
 <img src="https://img.shields.io/badge/diqzkvhfpqj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Park-HyoungJoon"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 ### skils
